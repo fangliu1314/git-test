@@ -13,6 +13,7 @@ public class UserController {
     public static void main(String[] args) {
 
         System.out.println("初恋 笑容");
+        System.out.println("初恋 爱情");
 
     }
 
