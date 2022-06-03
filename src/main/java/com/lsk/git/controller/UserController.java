@@ -17,6 +17,7 @@ public class UserController {
         System.out.println("初恋 情窦初开");
         System.out.println("梦方之恋  --->yuan  -->liu");
         System.out.println("梦方之恋  --->yuan  -->wuzhi");
+        System.out.println("梦方之恋  --->yuan  -->青睐");
 
     }
 
