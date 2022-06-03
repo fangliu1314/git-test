@@ -12,6 +12,7 @@ public class LoveController {
     public static void main(String[] args) {
 
         System.out.println("我们的爱情");
+        System.out.println("我们的爱情 由未来去评定吧。不想离开");
     }
 
 }
