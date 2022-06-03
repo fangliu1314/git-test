@@ -15,7 +15,7 @@ public class UserController {
         System.out.println("初恋 笑容 华颜悦色");
         System.out.println("初恋 爱情");
         System.out.println("初恋 情窦初开");
-        System.out.println("梦方之恋");
+        System.out.println("梦方之恋  --->yuan");
 
     }
 
